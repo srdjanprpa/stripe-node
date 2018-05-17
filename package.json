@@ -1,0 +1,19 @@
+{
+  "name": "stripe-node",
+  "version": "6.0.0",
+  "homepage": "https://github.com/stripe/stripe-node",
+  "author": "Stripe <support@stripe.com> (https://stripe.com/)",
+  "contributors": [
+    "Alex Rattray <rattrayalex@stripe.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stripe/stripe-node.git"
+  },
+  "bugs:": "https://github.com/stripe/stripe-node/issues",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node index.js"
+  }
+}

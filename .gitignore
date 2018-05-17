@@ -1,0 +1,15 @@
+node_modules
+.npm-debug.log
+tags
+.nyc_output
+coverage
+
+.github
+examples
+lib
+test
+.eslintrc.js
+.npmrc
+.travis.yml
+CHANGELOG.md
+VERSION
